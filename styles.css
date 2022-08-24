@@ -1,0 +1,29 @@
+/* etiqueta { propiedad: valor ; } */
+
+/*llamar a la etiqueta director*/
+h1{background-color: khaki;
+font-size:55px;}
+
+body{background-color: azure;}
+
+/*llamar a una clase*/
+.sub{color: blue;}
+
+/*llamar a un ID*/
+#fotos{background-color: aqua; border:4px solid red;}
+
+.boton{
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+}
+#flecha{
+    width: 50px;
+    rotate: 180deg;
+}
+
+#relativ{
+    border: 2px solid blue;
+    position: relative;
+    right: 25px; top: 70px;
+}
