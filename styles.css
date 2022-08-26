@@ -10,12 +10,12 @@ body{background-color: azure;}
 .sub{color: blue;}
 
 /*llamar a un ID*/
-#fotos{background-color: aqua; border:4px solid red;}
+#fotos{background-color: rgb(32, 209, 218); border:3px solid red;}
 
 .boton{
     position: fixed;
-    right: 20px;
-    bottom: 20px;
+    right: 22px;
+    bottom: 22px;
 }
 #flecha{
     width: 50px;
